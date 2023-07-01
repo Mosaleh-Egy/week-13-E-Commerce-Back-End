@@ -262,7 +262,7 @@ You are required to submit BOTH of the following for review:
 
 
 ## Video Walkthrough Link:
-
+https://drive.google.com/file/d/1CYrqlnXw3gjPY0l709nSJnsSGfv90kVC/view?usp=sharing
 
 ## Github Repo Link:
-
+https://github.com/Mosaleh-Egy/week-13-E-Commerce-Back-End
